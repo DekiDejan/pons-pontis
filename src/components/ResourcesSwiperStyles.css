@@ -1,0 +1,5 @@
+.mySwiper {
+  --swiper-scrollbar-bg-color: #ddd;
+  --swiper-scrollbar-drag-bg-color: #e66b5b;
+  --swiper-scrollbar-size: 8px;
+}
